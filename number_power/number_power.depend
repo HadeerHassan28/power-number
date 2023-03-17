@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678727271 source:d:\prog_course\iti_3_months\oop\labs\day_5\number_power\number_power\main.cpp
+	<iostream>
+	<cmath>
+
